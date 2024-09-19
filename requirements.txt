@@ -5,3 +5,4 @@ pdfplumber
 nltk
 uvicorn
 werkzeug
+python-multipart
