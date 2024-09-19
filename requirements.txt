@@ -1,0 +1,5 @@
+fastapi
+pydantic
+firebase-admin
+pdfplumber
+nltk
