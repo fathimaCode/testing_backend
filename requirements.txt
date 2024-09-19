@@ -4,3 +4,4 @@ firebase-admin
 pdfplumber
 nltk
 uvicorn
+werkzeug
