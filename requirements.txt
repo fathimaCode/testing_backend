@@ -3,3 +3,4 @@ pydantic
 firebase-admin
 pdfplumber
 nltk
+uvicorn
